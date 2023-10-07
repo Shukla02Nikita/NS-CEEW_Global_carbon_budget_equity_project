@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="Indonesia">
+         <ghgpolicy name="CO2">
+            <market>Indonesia</market>
+            <constraint year="2045">244.00</constraint>
+            <constraint year="2050">203.33</constraint>
+            <constraint year="2055">162.69</constraint>
+            <constraint year="2060">122.00</constraint>
+            <constraint year="2065">81.33</constraint>
+            <constraint year="2070">40.66</constraint>
+            <constraint year="2075">0.1</constraint>
+            <constraint year="2080">0.1</constraint>
+            <constraint year="2085">0.1</constraint>
+            <constraint year="2090">0.1</constraint>
+            <constraint year="2095">0.1</constraint>
+            <constraint year="2100">0.1</constraint>
+         </ghgpolicy>
+      </region>
+     
+   </world>
+</scenario>

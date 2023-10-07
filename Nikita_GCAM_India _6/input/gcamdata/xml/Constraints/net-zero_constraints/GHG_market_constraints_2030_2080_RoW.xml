@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="Africa_Eastern">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+            <constraint year="2035">2983.756</constraint>
+            <constraint year="2040">2652.228</constraint>
+            <constraint year="2045">2320.701</constraint>
+            <constraint year="2050">1989.174</constraint>
+            <constraint year="2055">1657.646</constraint>
+            <constraint year="2060">1326.119</constraint>
+            <constraint year="2065">994.5919</constraint>
+            <constraint year="2070">663.0646</constraint>
+            <constraint year="2075">331.5373</constraint>
+            <constraint year="2080">0.1</constraint>
+            <constraint year="2085">0.1</constraint>
+            <constraint year="2090">0.1</constraint>
+            <constraint year="2095">0.1</constraint>
+            <constraint year="2100">0.1</constraint>
+         </ghgpolicy>
+      </region>
+      <region name="Africa_Northern">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Africa_Southern">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Africa_Western">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+		</region>
+		<region name="Australia_NZ">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Brazil">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+	</region>
+      <region name="Central America and Caribbean">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Central Asia">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+            <region name="Europe_Eastern">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Europe_Non_EU">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+	<region name="European Free Trade Association">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Middle East">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+	</region>
+      <region name="Pakistan">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+  </region>
+      <region name="Russia">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="South Africa">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="South America_Northern">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="South America_Southern">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="South Asia">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Southeast Asia">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Taiwan">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+      </region>
+      <region name="Colombia">
+         <ghgpolicy name="CO2">
+            <market>row</market>
+         </ghgpolicy>
+
+      </region>
+   </world>
+</scenario>

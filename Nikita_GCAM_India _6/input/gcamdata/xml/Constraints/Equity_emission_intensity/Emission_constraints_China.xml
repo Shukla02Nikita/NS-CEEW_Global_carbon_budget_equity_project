@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="China">
+         <ghgpolicy name="CO2">
+            <market>China</market>
+           <constraint year="2035">33455.98</constraint>
+           <constraint year="2040">2616.52</constraint>
+            <constraint year="2045">1624.14</constraint>
+            <constraint year="2050">410.41</constraint>
+            <constraint year="2055">0.1</constraint>
+            <constraint year="2060">0.1</constraint>
+            <constraint year="2065">0.1</constraint>
+            <constraint year="2070">0.1</constraint>
+            <constraint year="2075">0.1</constraint>
+            <constraint year="2080">0.1</constraint>
+            <constraint year="2085">0.1</constraint>
+            <constraint year="2090">0.1</constraint>
+            <constraint year="2095">0.1</constraint>
+            <constraint year="2100">0.1</constraint>
+         </ghgpolicy>
+      </region>
+     
+   </world>
+</scenario>

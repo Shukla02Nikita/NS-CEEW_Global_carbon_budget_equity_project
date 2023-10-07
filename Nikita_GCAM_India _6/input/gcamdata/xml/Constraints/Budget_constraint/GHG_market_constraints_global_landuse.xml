@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <ghgpolicy name="CO2">
+            <market>IndiaLand</market>
+            <constraint year="2060">-100</constraint>
+            <constraint year="2065">-100</constraint>
+            <constraint year="2070">-100</constraint>
+            <constraint year="2075">-100</constraint>
+            <constraint year="2080">-100</constraint>
+            <constraint year="2085">-100</constraint>
+            <constraint year="2090">-100</constraint>
+            <constraint year="2095">-100</constraint>
+            <constraint year="2100">-100</constraint>
+         </ghgpolicy>
+	</region>
+   </world>
+</scenario>
