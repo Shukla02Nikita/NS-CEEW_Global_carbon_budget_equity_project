@@ -4,8 +4,6 @@
       <region name="Indonesia">
          <ghgpolicy name="CO2">
             <market>Indonesia</market>
-           <constraint year="2035">241.09</constraint>
-           <constraint year="2040">244.25</constraint>
             <constraint year="2045">231.84</constraint>
             <constraint year="2050">201.88</constraint>
             <constraint year="2055">153.78</constraint>
