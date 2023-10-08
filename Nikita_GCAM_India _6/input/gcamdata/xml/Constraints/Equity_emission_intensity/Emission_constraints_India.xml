@@ -4,12 +4,12 @@
       <region name="India">
          <ghgpolicy name="CO2">
             <market>India</market>
-			<constraint year="2035">1080.02</constraint>
-			<constraint year="2040">932.94</constraint>
-            <constraint year="2045">642.64</constraint>
-            <constraint year="2050">182.78</constraint>
-            <constraint year="2055">0.1</constraint>
-            <constraint year="2060">0.1</constraint>
+			<constraint year="2035">1412.87</constraint>
+			<constraint year="2040">1456.67</constraint>
+            <constraint year="2045">1413.83</constraint>
+            <constraint year="2050">1263.43</constraint>
+            <constraint year="2055">988.98</constraint>
+            <constraint year="2060">573.26</constraint>
             <constraint year="2065">0.1</constraint>
             <constraint year="2070">0.1</constraint>
             <constraint year="2075">0.1</constraint>
