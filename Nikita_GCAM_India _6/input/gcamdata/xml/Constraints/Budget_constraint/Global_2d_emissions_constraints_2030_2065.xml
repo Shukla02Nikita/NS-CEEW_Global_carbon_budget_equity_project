@@ -4,20 +4,20 @@
       <region name="Africa_Eastern">
          <ghgpolicy name="CO2">
             <market>Global</market>
-            <constraint year="2035">10017.5</constraint>
-            <constraint year="2040">8347.9</constraint>
-  			<constraint year="2045">6678.33</constraint>
-          	<constraint year="2050">5008.75</constraint>
-	     	<constraint year="2055">3339.17</constraint>
-	    	<constraint year="2060">1669.58</constraint>
-			<constraint year="2065">2</constraint>
-			<constraint year="2070">2</constraint>
-			<constraint year="2075">2</constraint>
-		    <constraint year="2080">2</constraint>
-	        <constraint year="2085">2</constraint>
-	         <constraint year="2090">2</constraint>
-			<constraint year="2095">2</constraint>
-	         <constraint year="2100">2</constraint>
+     	   <constraint year="2035">10020.4</constraint>
+            <constraint year="2040">8353.63</constraint>
+  			<constraint year="2045">6686.90</constraint>
+          	<constraint year="2050">5020.18</constraint>
+	     	<constraint year="2055">3353.45</constraint>
+	    	<constraint year="2060">1686.72</constraint>
+			<constraint year="2065">20</constraint>
+			<constraint year="2070">20</constraint>
+			<constraint year="2075">20</constraint>
+		    <constraint year="2080">20</constraint>
+	        <constraint year="2085">20</constraint>
+	         <constraint year="2090">20</constraint>
+			<constraint year="2095">20</constraint>
+	         <constraint year="2100">20</constraint>
          </ghgpolicy>
       </region>
       <region name="Africa_Northern">
