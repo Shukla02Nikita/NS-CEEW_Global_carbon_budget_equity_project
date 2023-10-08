@@ -154,8 +154,8 @@
 
         <Value name = "wind_update">../input/gcamdata/xml/Other/onshore_wind.xml</Value>
 
-<!--Equity_PerCapitaEmission_constraints for G10 countries-->
-	<Value name = "Emission_constraints_Argentina">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_Argentina.xml</Value>
+<!--Equity1_PerCapitaEmission_constraints for G10 countries-->
+	<!--Value name = "Emission_constraints_Argentina">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_Argentina.xml</Value>
 	<Value name = "Emission_constraints_Canada">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_Canada.xml</Value>
 	<Value name = "Emission_constraints_China">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_China.xml</Value>
 	<Value name = "Emission_constraints_EU-27">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_EU-27.xml</Value>
@@ -165,7 +165,20 @@
 	<Value name = "Emission_constraints_Mexico">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_Mexico.xml</Value>
 	<Value name = "Emission_constraints_SouthKorea">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_SouthKorea.xml</Value>
 	<Value name = "Emission_constraints_USA">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_USA.xml</Value>
-	<Value name = "Emission_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_RoW.xml</Value>
+	<Value name = "Emission_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_RoW.xml</Value-->
+
+<!--Equity3_Emission_Intensity_constraints for G10 countries-->
+	<Value name = "Emission_constraints_Argentina">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_Argentina.xml</Value>
+	<Value name = "Emission_constraints_Canada">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_Canada.xml</Value>
+	<Value name = "Emission_constraints_China">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_China.xml</Value>
+	<Value name = "Emission_constraints_EU-27">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_EU-27.xml</Value>
+	<Value name = "Emission_constraints_India">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_India.xml</Value>
+	<Value name = "Emission_constraints_Indonesia">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_Indonesia.xml</Value>
+	<Value name = "Emission_constraints_Japan">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_Japan.xml</Value>
+	<Value name = "Emission_constraints_Mexico">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_Mexico.xml</Value>
+	<Value name = "Emission_constraints_SouthKorea">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_SouthKorea.xml</Value>
+	<Value name = "Emission_constraints_USA">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_USA.xml</Value>
+	<Value name = "Emission_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_constraints_RoW.xml</Value>
 
 <!--Net-zero constraints for G10 countries-->
 		<!--Value name = "GHG_market_constraints_Argentina">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_Argentina.xml</Value>
@@ -186,7 +199,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Equity_PerCapitaEmissions_30-65</Value>
+		<Value name="scenarioName">Equity_Emission_Instensity_30-65</Value>
 		<Value name="debug-region">Global</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
