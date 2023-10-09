@@ -3,10 +3,7 @@
    <world>
       <region name="EU-12">
          <ghgpolicy name="CO2">
-            <market>EU27</market>
- 			<constraint year="2005">1302.97</constraint>
- 			<constraint year="2010">1248.73</constraint>
- 			<constraint year="2015">1200.16</constraint>         
+            <market>EU27</market>   
  			<constraint year="2020">1187.29</constraint>
  			<constraint year="2025">1140.22</constraint>
  			<constraint year="2030">1078.01</constraint>

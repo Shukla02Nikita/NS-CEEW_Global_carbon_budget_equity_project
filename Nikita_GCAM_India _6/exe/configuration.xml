@@ -95,7 +95,7 @@
 		
 		<Value name = "bio_feedstock_limit">../input/gcamdata/xml/Other/liquids_limits.xml</Value>
 		<Value name = "bio_elec_w_feed_limit">../input/gcamdata/xml/Other/water_elec_liquids_limits.xml</Value>
-		<!--Value name = "bio_neg_emiss_budget">../input/gcamdata/xml/Other/negative_emissions_budget_gSSP2.xml</Value-->
+		<Value name = "bio_neg_emiss_budget">../input/gcamdata/xml/Other/negative_emissions_budget_gSSP2.xml</Value>
 		<Value name = "bio_externality">../input/gcamdata/xml/Other/bio_externality.xml</Value>
 		<!--Value name = "dac_ssp2">../input/gcamdata/xml/Other/dac_ssp2.xml</Value-->
 

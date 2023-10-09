@@ -4,8 +4,6 @@
       <region name="USA">
          <ghgpolicy name="CO2">
             <market>USA</market>
-	   		<constraint year="2010">1544.64</constraint>
-	   		<constraint year="2015">1563.26</constraint>
 	   		<constraint year="2020">1564.67</constraint>
 	   		<constraint year="2025">1516.71</constraint>       
 			<constraint year="2030">1457.69</constraint>
