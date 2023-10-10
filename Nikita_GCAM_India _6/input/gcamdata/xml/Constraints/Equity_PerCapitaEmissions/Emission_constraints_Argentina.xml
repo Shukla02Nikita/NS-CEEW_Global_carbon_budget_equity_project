@@ -5,7 +5,7 @@
          <ghgpolicy name="CO2">
             <market>Argentina</market>
            <constraint year="2035">53.55</constraint>
-           <constraint year="2040">44.62</constraint>
+           <constraint year="2040">45.98</constraint>
             <constraint year="2045">35.70</constraint>
             <constraint year="2050">26.77</constraint>
             <constraint year="2055">17.85</constraint>

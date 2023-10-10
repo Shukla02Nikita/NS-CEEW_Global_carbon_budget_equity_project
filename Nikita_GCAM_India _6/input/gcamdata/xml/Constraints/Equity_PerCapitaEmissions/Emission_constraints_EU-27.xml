@@ -6,19 +6,19 @@
             <market>EU27</market>
  			<constraint year="2030">801.81</constraint>
            <constraint year="2035">601.36</constraint>
-           <constraint year="2040">400.91</constraint>
+           <constraint year="2040">393.01</constraint>
             <constraint year="2045">200.46</constraint>
-            <constraint year="2050">0.1</constraint>
-            <constraint year="2055">0.1</constraint>
-            <constraint year="2060">0.1</constraint>
-            <constraint year="2065">0.1</constraint>
-            <constraint year="2070">0.1</constraint>
-            <constraint year="2075">0.1</constraint>
-            <constraint year="2080">0.1</constraint>
-            <constraint year="2085">0.1</constraint>
-            <constraint year="2090">0.1</constraint>
-            <constraint year="2095">0.1</constraint>
-            <constraint year="2100">0.1</constraint>
+            <constraint year="2050">0.2</constraint>
+            <constraint year="2055">0.2</constraint>
+            <constraint year="2060">0.2</constraint>
+            <constraint year="2065">0.2</constraint>
+            <constraint year="2070">0.2</constraint>
+            <constraint year="2075">0.2</constraint>
+            <constraint year="2080">0.2</constraint>
+            <constraint year="2085">0.2</constraint>
+            <constraint year="2090">0.2</constraint>
+            <constraint year="2095">0.2</constraint>
+            <constraint year="2100">0.2</constraint>
          </ghgpolicy>
       </region>
       <region name="EU-12">

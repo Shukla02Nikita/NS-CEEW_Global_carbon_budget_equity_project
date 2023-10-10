@@ -5,7 +5,7 @@
          <ghgpolicy name="CO2">
             <market>Mexico</market>
            <constraint year="2035">142.80</constraint>
-           <constraint year="2040">124.94</constraint>
+           <constraint year="2040">128.01</constraint>
             <constraint year="2045">107.1</constraint>
             <constraint year="2050">89.24</constraint>
             <constraint year="2055">71.40</constraint>
