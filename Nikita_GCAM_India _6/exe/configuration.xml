@@ -199,7 +199,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Equity_Emission_Instensity_30-65</Value>
+		<Value name="scenarioName">Equity_Emission_Intensity_30-65</Value>
 		<Value name="debug-region">Global</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
