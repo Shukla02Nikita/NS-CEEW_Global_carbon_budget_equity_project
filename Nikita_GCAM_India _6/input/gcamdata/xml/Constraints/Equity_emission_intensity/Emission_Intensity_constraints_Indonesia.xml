@@ -4,20 +4,20 @@
       <region name="Indonesia">
          <ghgpolicy name="CO2">
             <market>Indonesia</market>
- 			<constraint year="2035">241.09</constraint>
- 			<constraint year="2040">244.25</constraint>            
-			<constraint year="2045">231.84</constraint>
-            <constraint year="2050">201.88</constraint>
-            <constraint year="2055">153.78</constraint>
-            <constraint year="2060">86.65</constraint>
-            <constraint year="2065">0.2</constraint>
-            <constraint year="2070">0.2</constraint>
-            <constraint year="2075">0.2</constraint>
-            <constraint year="2080">0.2</constraint>
-            <constraint year="2085">0.2</constraint>
-            <constraint year="2090">0.2</constraint>
-            <constraint year="2095">0.2</constraint>
-            <constraint year="2100">0.2</constraint>
+ 			<constraint year="2035">240.53</constraint>
+ 			<constraint year="2040">243.68</constraint>            
+			<constraint year="2045">231.29</constraint>
+            <constraint year="2050">201.41</constraint>
+            <constraint year="2055">153.42</constraint>
+            <constraint year="2060">86.44</constraint>
+            <constraint year="2065">0.1</constraint>
+            <constraint year="2070">0.1</constraint>
+            <constraint year="2075">0.1</constraint>
+            <constraint year="2080">0.1</constraint>
+            <constraint year="2085">0.1</constraint>
+            <constraint year="2090">0.1</constraint>
+            <constraint year="2095">0.1</constraint>
+            <constraint year="2100">0.1</constraint>
          </ghgpolicy>
       </region>
      

@@ -10,14 +10,14 @@
             <constraint year="2050">2517.42</constraint>
             <constraint year="2055">1916.05</constraint>
             <constraint year="2060">1093.79</constraint>
-            <constraint year="2065">0.5</constraint>
-            <constraint year="2070">0.5</constraint>
-            <constraint year="2075">0.5</constraint>
-            <constraint year="2080">0.5</constraint>
-            <constraint year="2085">0.5</constraint>
-            <constraint year="2090">0.5</constraint>
-            <constraint year="2095">0.5</constraint>
-            <constraint year="2100">0.5</constraint>
+            <constraint year="2065">2.0</constraint>
+            <constraint year="2070">2.0</constraint>
+            <constraint year="2075">2.0</constraint>
+            <constraint year="2080">2.0</constraint>
+            <constraint year="2085">2.0</constraint>
+            <constraint year="2090">2.0</constraint>
+            <constraint year="2095">2.0</constraint>
+            <constraint year="2100">2.0</constraint>
          </ghgpolicy>
       </region>
       <region name="Africa_Northern">
