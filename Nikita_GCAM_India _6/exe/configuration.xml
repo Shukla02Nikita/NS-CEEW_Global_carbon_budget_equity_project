@@ -95,7 +95,7 @@
 		
 		<Value name = "bio_feedstock_limit">../input/gcamdata/xml/Other/liquids_limits.xml</Value>
 		<Value name = "bio_elec_w_feed_limit">../input/gcamdata/xml/Other/water_elec_liquids_limits.xml</Value>
-		<Value name = "bio_neg_emiss_budget">../input/gcamdata/xml/Other/negative_emissions_budget_gSSP2.xml</Value>
+		<!--Value name = "bio_neg_emiss_budget">../input/gcamdata/xml/Other/negative_emissions_budget_gSSP2.xml</Value-->
 		<Value name = "bio_externality">../input/gcamdata/xml/Other/bio_externality.xml</Value>
 		<!--Value name = "dac_ssp2">../input/gcamdata/xml/Other/dac_ssp2.xml</Value-->
 
@@ -168,7 +168,7 @@
 	<Value name = "Emission_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_PerCapitaEmissions/Emission_constraints_RoW.xml</Value-->
 
 <!--Equity3_Emission_Intensity_constraints for G10 countries-->
-	<Value name = "Emission_Intensity_constraints_Argentina">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_Argentina.xml</Value>
+	<!--Value name = "Emission_Intensity_constraints_Argentina">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_Argentina.xml</Value>
 	<Value name = "Emission_Intensity_constraints_Canada">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_Canada.xml</Value>
 	<Value name = "Emission_Intensity_constraints_China">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_China.xml</Value>
 	<Value name = "Emission_Intensity_constraints_EU-27">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_EU-27.xml</Value>
@@ -178,7 +178,7 @@
 	<Value name = "Emission_Intensity_constraints_Mexico">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_Mexico.xml</Value>
 	<Value name = "Emission_Intensity_constraints_SouthKorea">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_SouthKorea.xml</Value>
 	<Value name = "Emission_Intensity_constraints_USA">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_USA.xml</Value>
-	<Value name = "Emission_Intensity_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_RoW.xml</Value>
+	<Value name = "Emission_Intensity_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_RoW.xml</Value-->
 
 <!--Net-zero constraints for G10 countries-->
 		<!--Value name = "GHG_market_constraints_Argentina">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_Argentina.xml</Value>
@@ -201,7 +201,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Equity_Emission_Intensity_30-65_Final</Value>
+		<Value name="scenarioName">BAU_G10</Value>
 		<Value name="debug-region">Global</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
