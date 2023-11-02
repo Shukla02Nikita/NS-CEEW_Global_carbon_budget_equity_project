@@ -5,7 +5,7 @@
          <ghgpolicy name="CO2">
             <market>row</market>
             <constraint year="2045">3264.88</constraint>
-            <constraint year="2050">2705.186</constraint>
+            <constraint year="2050">2798.46</constraint>
             <constraint year="2055">2332.57</constraint>
             <constraint year="2060">1865.64</constraint>
             <constraint year="2065">1399.234</constraint>
