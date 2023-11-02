@@ -181,7 +181,7 @@
 	<Value name = "Emission_Intensity_constraints_RoW">../input/gcamdata/xml/Constraints/Equity_emission_intensity/Emission_Intensity_constraints_RoW.xml</Value-->
 
 <!--Net-zero constraints for G10 countries-->
-		<!--Value name = "GHG_market_constraints_Argentina">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_Argentina.xml</Value>
+		<Value name = "GHG_market_constraints_Argentina">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_Argentina.xml</Value>
 		<Value name = "GHG_market_constraints_Canada">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_Canada.xml</Value>
 		<Value name = "GHG_market_constraints_China">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_China.xml</Value>
 		<Value name = "GHG_market_constraints_EU-27">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_EU-27.xml</Value>
@@ -191,7 +191,7 @@
 		<Value name = "GHG_market_constraints_Mexico">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_Mexico.xml</Value>
 		<Value name = "GHG_market_constraints_SouthKorea">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_SouthKorea.xml</Value>
 		<Value name = "GHG_market_constraints_USA">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_USA.xml</Value>
-		<Value name = "GHG_market_constraints_2030_2080_RoW">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_2030_2080_RoW.xml</Value-->
+		<Value name = "GHG_market_constraints_2030_2080_RoW">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_2030_2080_RoW.xml</Value>
 
 <!--Global Net-zero constraints-->
 	<!--Value name = "Global_2d_emissions_constraints_2030_2065">../input/gcamdata/xml/Constraints/Budget_constraint/Global_2d_emissions_constraints_2030_2065.xml</Value>	
@@ -201,7 +201,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU_G10</Value>
+		<Value name="scenarioName">Net-Zero_updated</Value>
 		<Value name="debug-region">Global</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>

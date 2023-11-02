@@ -4,10 +4,11 @@
       <region name="South Korea">
          <ghgpolicy name="CO2">
            <market>South Korea</market>
-          <constraint year="2030">149.278</constraint>
-           <constraint year="2035">111.961</constraint>
-           <constraint year="2040">74.644</constraint>
-            <constraint year="2045">37.327</constraint>
+		<constraint year="2025">155.198</constraint>          
+		<constraint year="2030">124.158</constraint>
+           <constraint year="2035">93.119</constraint>
+           <constraint year="2040">62.079</constraint>
+            <constraint year="2045">31.039</constraint>
             <constraint year="2050">0.1</constraint>
             <constraint year="2055">0.1</constraint>
             <constraint year="2060">0.1</constraint>

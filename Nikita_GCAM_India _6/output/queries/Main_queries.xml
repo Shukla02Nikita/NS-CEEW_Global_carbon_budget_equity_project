@@ -4888,23 +4888,11 @@ local:generate-sector-output-coefs(remove($inputNameQueue, 1), $currTree, $coefs
                 <xPath buildList="true" dataName="price" group="false" sumAll="false">Marketplace/market[true() and contains(@name,'OtherMeat')]/price/node()</xPath>
                 <comments/>
             </marketQuery>
-            <marketQuery title="supply of a specific market">
-                <axis1 name="market">market</axis1>
-                <axis2 name="Year">market</axis2>
-                <xPath buildList="true" dataName="price" group="false" sumAll="false">Marketplace/market[true() and contains(@name, 'OtherMeat')]/supply/node()</xPath>
-                <comments/>
-            </marketQuery>
             <supplyDemandQuery title="prices by sector">
                 <axis1 name="sector">sector</axis1>
                 <axis2 name="Year">cost</axis2>
                 <xPath buildList="true" dataName="Price" group="false" sumAll="false">*[@type = 'sector']/cost/text()</xPath>
                 <comments/>
-            </supplyDemandQuery>
-            <supplyDemandQuery title="costs by subsector">
-                <axis1 name="subsector">subsector</axis1>
-                <axis2 name="Year">cost</axis2>
-                <xPath buildList="true" dataName="Price" group="false" sumAll="false">*[@type='sector' and (local-name()!='AgSupplySector')]/*[@type = 'subsector']/cost/text()</xPath>
-                <comments>Excludes AgSupplySubsector costs, where data written out are no meaningful</comments>
             </supplyDemandQuery>
             <supplyDemandQuery title="costs by tech">
                 <axis1 name="technology">technology</axis1>
@@ -4918,6 +4906,24 @@ local:generate-sector-output-coefs(remove($inputNameQueue, 1), $currTree, $coefs
                 <xPath buildList="true" dataName="fuel cost" group="false" sumAll="false">*[@type = 'sector']/*[@type = 'subsector']/*[@type = 'technology']/
             *[@type='input']/price-paid[@vintage=parent::*/parent::*/@year]/text()</xPath>
                 <comments>excludes energy and emissions related costs which are not printed</comments>
+            </supplyDemandQuery>
+            <supplyDemandQuery title="prices by sector: Could not generate list.">
+                <axis1 name="sector">sector</axis1>
+                <axis2 name="Year">cost</axis2>
+                <xPath buildList="false" dataName="Price" group="false" sumAll="false">*[@type = 'sector']/cost/text()[ancestor::*[(@type='sector') and (@name='Could not generate list.')]]</xPath>
+                <comments/>
+            </supplyDemandQuery>
+            <marketQuery title="supply of a specific market">
+                <axis1 name="market">market</axis1>
+                <axis2 name="Year">market</axis2>
+                <xPath buildList="true" dataName="price" group="false" sumAll="false">Marketplace/market[true() and contains(@name, 'OtherMeat')]/supply/node()</xPath>
+                <comments/>
+            </marketQuery>
+            <supplyDemandQuery title="costs by subsector">
+                <axis1 name="subsector">subsector</axis1>
+                <axis2 name="Year">cost</axis2>
+                <xPath buildList="true" dataName="Price" group="false" sumAll="false">*[@type='sector' and (local-name()!='AgSupplySector')]/*[@type = 'subsector']/cost/text()</xPath>
+                <comments>Excludes AgSupplySubsector costs, where data written out are no meaningful</comments>
             </supplyDemandQuery>
         </queryGroup>
         <queryGroup name="inter-sectoral flows">
