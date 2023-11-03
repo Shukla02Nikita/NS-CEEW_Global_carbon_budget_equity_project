@@ -4,14 +4,12 @@
       <region name="Canada">
          <ghgpolicy name="CO2">
             <market>Canada</market>
-		<constraint year="2025">165.130</constraint>
-		<constraint year="2030">158.77</constraint>        	
-		<constraint year="2035">149.624</constraint>
-           <constraint year="2040">136.796</constraint>
-            <constraint year="2045">119.310</constraint>
-            <constraint year="2050">96.767</constraint>
-            <constraint year="2055">69.411</constraint>
-            <constraint year="2060">37.378</constraint>
+		<constraint year="2035">164.375</constraint>
+           <constraint year="2040">150.28</constraint>
+            <constraint year="2045">131.07</constraint>
+            <constraint year="2050">106.30</constraint>
+            <constraint year="2055">76.25</constraint>
+            <constraint year="2060">41.06</constraint>
             <constraint year="2065">0.1</constraint>
             <constraint year="2070">0.1</constraint>
             <constraint year="2075">0.1</constraint>

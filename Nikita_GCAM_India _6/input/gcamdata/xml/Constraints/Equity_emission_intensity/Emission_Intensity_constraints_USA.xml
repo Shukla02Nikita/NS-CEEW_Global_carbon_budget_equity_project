@@ -4,22 +4,20 @@
       <region name="USA">
          <ghgpolicy name="CO2">
             <market>USA</market> 		
-			<constraint year="2025">1394.88</constraint>       
-			<constraint year="2030">1340.58</constraint>
-	 	     <constraint year="2035">1243.39</constraint>
-	  	     <constraint year="2040">1110.59</constraint>
-	        <constraint year="2045">944.72</constraint>
-            <constraint year="2050">747.40</constraint>
-            <constraint year="2055">524.31</constraint>
-            <constraint year="2060">275.83</constraint>
-            <constraint year="2065">0.1</constraint>
-            <constraint year="2070">0.1</constraint>
-            <constraint year="2075">0.1</constraint>
-            <constraint year="2080">0.1</constraint>
-            <constraint year="2085">0.1</constraint>
-            <constraint year="2090">0.1</constraint>
-            <constraint year="2095">0.1</constraint>
-            <constraint year="2100">0.1</constraint>
+	 	     <constraint year="2035">1327.46</constraint>
+	  	     <constraint year="2040">1185.67</constraint>
+	        <constraint year="2045">1008.59</constraint>
+            <constraint year="2050">797.94</constraint>
+            <constraint year="2055">559.76</constraint>
+            <constraint year="2060">294.48</constraint>
+            <constraint year="2065">3.0</constraint>
+            <constraint year="2070">3.0</constraint>
+            <constraint year="2075">3.0</constraint>
+            <constraint year="2080">3.0</constraint>
+            <constraint year="2085">3.0</constraint>
+            <constraint year="2090">3.0</constraint>
+            <constraint year="2095">3.0</constraint>
+            <constraint year="2100">3.0</constraint>
          </ghgpolicy>
       </region>
      

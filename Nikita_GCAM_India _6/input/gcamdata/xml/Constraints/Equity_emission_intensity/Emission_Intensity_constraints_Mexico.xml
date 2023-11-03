@@ -3,14 +3,13 @@
    <world>
       <region name="Mexico">
          <ghgpolicy name="CO2">
-            <market>Mexico</market>
- 			 <constraint year="2030">152.28</constraint>          
- 			<constraint year="2035">149.66</constraint>
-           <constraint year="2040">141.63</constraint>
-            <constraint year="2045">127.96</constraint>
-            <constraint year="2050">108.037</constraint>
-            <constraint year="2055">80.69</constraint>
-            <constraint year="2060">44.90</constraint>
+            <market>Mexico</market>  
+ 			<constraint year="2035">157.96</constraint>
+           <constraint year="2040">149.48</constraint>
+            <constraint year="2045">135.06</constraint>
+            <constraint year="2050">114.02</constraint>
+            <constraint year="2055">85.17</constraint>
+            <constraint year="2060">47.39</constraint>
             <constraint year="2065">0.1</constraint>
             <constraint year="2070">0.1</constraint>
             <constraint year="2075">0.1</constraint>

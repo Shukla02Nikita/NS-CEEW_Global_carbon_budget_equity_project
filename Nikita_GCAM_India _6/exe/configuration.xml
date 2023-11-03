@@ -194,13 +194,13 @@
 		<Value name = "GHG_market_constraints_2030_2080_RoW">../input/gcamdata/xml/Constraints/net-zero_constraints/GHG_market_constraints_2030_2080_RoW.xml</Value-->
 
 <!--Global Net-zero constraints-->
-	<!--Value name = "Global_2d_emissions_constraints_2035_2065">../input/gcamdata/xml/Constraints/Budget_constraint/Global_2d_emissions_constraints_2035_2065.xml</Value-->
+	<!--Value name = "Global_2d_emissions_constraints_2030_2065">../input/gcamdata/xml/Constraints/Budget_constraint/Global_2d_emissions_constraints_2030_2065.xml</Value-->
 
 <Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Economic_convergence_35-65</Value>
+		<Value name="scenarioName">Final-economic-convergence</Value>
 		<Value name="debug-region">Global</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>

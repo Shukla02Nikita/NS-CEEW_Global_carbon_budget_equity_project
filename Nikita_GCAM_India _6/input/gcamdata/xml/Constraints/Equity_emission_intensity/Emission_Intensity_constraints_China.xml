@@ -4,20 +4,20 @@
       <region name="China">
          <ghgpolicy name="CO2">
             <market>China</market>
-           <constraint year="2035">3814.47</constraint>
-           <constraint year="2040">3561.73</constraint>
+           <constraint year="2035">3806.86</constraint>
+           <constraint year="2040">3561.47</constraint>
             <constraint year="2045">3118.65</constraint>
             <constraint year="2050">2496.70</constraint>
             <constraint year="2055">1739.49</constraint>
             <constraint year="2060">900.57</constraint>
-            <constraint year="2065">0.1</constraint>
-            <constraint year="2070">0.1</constraint>
-            <constraint year="2075">0.1</constraint>
-            <constraint year="2080">0.1</constraint>
-            <constraint year="2085">0.1</constraint>
-            <constraint year="2090">0.1</constraint>
-            <constraint year="2095">0.1</constraint>
-            <constraint year="2100">0.1</constraint>
+            <constraint year="2065">2.0</constraint>
+            <constraint year="2070">2.0</constraint>
+            <constraint year="2075">2.0</constraint>
+            <constraint year="2080">2.0</constraint>
+            <constraint year="2085">2.0</constraint>
+            <constraint year="2090">2.0</constraint>
+            <constraint year="2095">2.0</constraint>
+            <constraint year="2100">2.0</constraint>
          </ghgpolicy>
       </region>
      

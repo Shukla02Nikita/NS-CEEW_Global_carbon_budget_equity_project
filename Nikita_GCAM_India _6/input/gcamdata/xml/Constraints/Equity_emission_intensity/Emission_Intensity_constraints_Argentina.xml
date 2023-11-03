@@ -4,11 +4,11 @@
       <region name="Argentina">
          <ghgpolicy name="CO2">
             <market>Argentina</market>
-           <constraint year="2035">60.39</constraint>
-           <constraint year="2040">56.84</constraint>
+           <constraint year="2035">61.364</constraint>
+           <constraint year="2040">60.39</constraint>
             <constraint year="2045">50.63</constraint>
             <constraint year="2050">41.95</constraint>
-            <constraint year="2055">30.70</constraint>
+            <constraint year="2055">30.69</constraint>
             <constraint year="2060">16.74</constraint>
             <constraint year="2065">0.1</constraint>
             <constraint year="2070">0.1</constraint>

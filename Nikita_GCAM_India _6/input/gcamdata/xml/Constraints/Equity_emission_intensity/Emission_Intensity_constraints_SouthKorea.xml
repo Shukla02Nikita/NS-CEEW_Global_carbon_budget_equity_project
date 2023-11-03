@@ -3,23 +3,21 @@
    <world>
       <region name="South Korea">
          <ghgpolicy name="CO2">
-           <market>South Korea</market>
-			<constraint year="2025">190.04</constraint>       
-			<constraint year="2030">188.517</constraint>
-           <constraint year="2035">178.58</constraint>
-           <constraint year="2040">161.20</constraint>
-            <constraint year="2045">137.66</constraint>
-            <constraint year="2050">108.73</constraint>
-            <constraint year="2055">75.77</constraint>
-            <constraint year="2060">39.07</constraint>
-            <constraint year="2065">0.1</constraint>
-            <constraint year="2070">0.1</constraint>
-            <constraint year="2075">0.1</constraint>
-            <constraint year="2080">0.1</constraint>
-            <constraint year="2085">0.1</constraint>
-            <constraint year="2090">0.1</constraint>
-            <constraint year="2095">0.1</constraint>
-            <constraint year="2100">0.1</constraint>
+           <market>South Korea</market>    
+           <constraint year="2035">174.05</constraint>
+           <constraint year="2040">157.115</constraint>
+            <constraint year="2045">134.17</constraint>
+            <constraint year="2050">105.98</constraint>
+            <constraint year="2055">73.85</constraint>
+            <constraint year="2060">38.08</constraint>
+            <constraint year="2065">1.0</constraint>
+            <constraint year="2070">1.0</constraint>
+            <constraint year="2075">1.0</constraint>
+            <constraint year="2080">1.0</constraint>
+            <constraint year="2085">1.0</constraint>
+            <constraint year="2090">1.0</constraint>
+            <constraint year="2095">1.0</constraint>
+            <constraint year="2100">1.0</constraint>
          </ghgpolicy>
       </region>
    </world>
